@@ -1,19 +1,29 @@
 # GOJEK
 
-This project aims to make a cloned web of GOJEK using Reat JS.
-You can visit this web by clicking link:
+> This project aims to make a cloned web of GOJEK using Reat JS.
+
+## Link Project
+
 https://production-gojek.herokuapp.com
 
 ## Installation
 
-```
-yarn install
+```bash
+# install dependencies
+$ yarn install
 ```
 
 ## Usage
 
+```bash
+# serve with hot reload at localhost:3000
+$ yarn run start
 ```
-yarn run start
+
+```bash
+# build for production and launch server
+$ yarn run build
+$ yarn start
 ```
 
 ## Built With
